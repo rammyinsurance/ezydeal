@@ -4,7 +4,7 @@ second line
 third commit
 
 
-EDIT IN GIT DIRECTLY
+EDIT IN GIT DIRECTLY/ SECOND TIME
 
 
 
