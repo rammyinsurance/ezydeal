@@ -1,0 +1,14 @@
+echo "# ezydeal" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:rammyinsurance/ezydeal.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin git@github.com:rammyinsurance/ezydeal.git
+git push -u origin master
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
